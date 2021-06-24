@@ -1,0 +1,42 @@
+{
+  "name": "nodejs",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "array-unique": "^0.3.2",
+    "cookie-parser": "~1.4.4",
+    "dateformat": "^4.5.1",
+    "debug": "~2.6.9",
+    "express": "~4.16.1",
+    "follow-redirects": "^1.14.1",
+    "handy-storage": "^2.1.6",
+    "helpers": "0.0.6",
+    "http-errors": "~1.6.3",
+    "ipware": "^2.0.0",
+    "isodate": "^0.1.4",
+    "jade": "~1.11.0",
+    "jshint": "^2.12.0",
+    "kraken-api": "^1.0.1",
+    "kraken-api-wrapper": "^0.2.0",
+    "kraken-exc": "^1.4.2",
+    "md5": "^2.3.0",
+    "mongodb": "^3.6.3",
+    "morgan": "~1.9.1",
+    "net": "^1.0.2",
+    "node-binance-api": "^0.12.4",
+    "node-cron": "^2.0.3",
+    "node-fetch": "^2.6.1",
+    "node-localstorage": "^2.1.6",
+    "okex-rest": "0.0.1",
+    "redirects": "^1.1.1",
+    "regenerator-runtime": "^0.13.7",
+    "request": "^2.88.2",
+    "sleep": "^6.3.0",
+    "twilio": "^3.64.0",
+    "ws": "^7.5.0",
+    "zcrmsdk": "^1.0.1"
+  }
+}
